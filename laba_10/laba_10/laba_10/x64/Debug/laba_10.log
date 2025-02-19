@@ -1,0 +1,13 @@
+﻿  laba_10.cpp
+Source.obj : error LNK2005: "void __cdecl change(void)" (?change@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl enter(void)" (?enter@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl print(void)" (?print@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl purchase_task(void)" (?purchase_task@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl sort(void)" (?sort@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl sort_amount(void)" (?sort_amount@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl sort_number(void)" (?sort_number@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl sort_prodaction_name(void)" (?sort_prodaction_name@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl sort_stoimost(void)" (?sort_stoimost@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl sort_supplier_name(void)" (?sort_supplier_name@@YAXXZ) already defined in laba_10.obj
+Source.obj : error LNK2005: "void __cdecl sort_total_price(void)" (?sort_total_price@@YAXXZ) already defined in laba_10.obj
+C:\Users\danil\source\repos\laba_10\laba_10\x64\Debug\laba_10.exe : fatal error LNK1169: one or more multiply defined symbols found

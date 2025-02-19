@@ -1,0 +1,4 @@
+﻿  laba_10.cpp
+C:\Users\danil\source\repos\laba_10\laba_10\laba_10.cpp(112,1): warning C4715: 'check_amount': not all control paths return a value
+C:\Users\danil\source\repos\laba_10\laba_10\laba_10.cpp(35,1): warning C4715: 'check': not all control paths return a value
+  laba_10.vcxproj -> C:\Users\danil\source\repos\laba_10\x64\Debug\laba_10.exe
