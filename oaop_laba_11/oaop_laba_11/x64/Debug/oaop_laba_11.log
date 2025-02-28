@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\danil\source\repos\oaop_laba_11\oaop_laba_11\Source.cpp(250,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danil\source\repos\oaop_laba_11\oaop_laba_11\Source.cpp(400,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danil\source\repos\oaop_laba_11\oaop_laba_11\Source.cpp(644,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danil\source\repos\oaop_laba_11\oaop_laba_11\Source.cpp(575,15): warning C4101: 'flag': unreferenced local variable
+C:\Users\danil\source\repos\oaop_laba_11\oaop_laba_11\Source.cpp(33,1): warning C4715: 'check': not all control paths return a value
+  oaop_laba_11.vcxproj -> C:\Users\danil\source\repos\oaop_laba_11\x64\Debug\oaop_laba_11.exe
